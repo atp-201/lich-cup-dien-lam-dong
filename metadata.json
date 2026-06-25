@@ -1,0 +1,6 @@
+{
+  "name": "Theo Dõi Cúp Điện Lâm Đồng",
+  "description": "Ứng dụng theo dõi lịch cúp điện tự động cập nhật cho địa bàn tỉnh Lâm Đồng",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": []
+}

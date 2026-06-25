@@ -1,0 +1,43 @@
+name: Deploy to GitHub Pages
+
+on:
+  # Chạy khi có push lên nhánh chính (ví dụ: main hoặc master)
+  push:
+    branches: ["main", "master"]
+  # Hỗ trợ chạy thủ công từ tab Actions
+  workflow_dispatch:
+  # Lên lịch tự động cập nhật dữ liệu hàng ngày vào 00:00 (UTC)
+  schedule:
+    - cron: '0 0 * * *'
+
+# Quyền ghi để deploy lên GitHub Pages
+permissions:
+  contents: write
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Fetch Data and Build Project
+        # Script này sẽ tự động chạy npm run scrape và build ứng dụng
+        # Cấu hình VITE_BASE_PATH bằng tên repo để GitHub Pages nhận đúng đường dẫn
+        run: |
+          export VITE_BASE_PATH="/${{ github.event.repository.name }}/"
+          npm run build
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
