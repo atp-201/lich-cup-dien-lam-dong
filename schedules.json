@@ -1,13 +1,5 @@
 [
   {
-    "id": "afcf12e0a6c249fcd94589070627e39520ca6865633e547cc173165ea5851e98",
-    "district": "Điện lực Huyện Di Linh",
-    "area": "Nhánh rẽ 471/122 (TBA Vinfá và Khu Du Lịch Đại Nam)",
-    "start_time": "2026-09-05T01:00:00.000Z",
-    "end_time": "2026-09-05T07:00:00.000Z",
-    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
-  },
-  {
     "id": "cf5f29943151d96ae35415590ff6f3231cbdf01f65ad4ea3a12ab54dd99479a5",
     "district": "Điện lực Thành phố Bảo Lộc",
     "area": "- Toàn bộ khu vực trụ 471/56/54 từ chợ Đại Lào đi về hướng đèo Bảo Lộc",
