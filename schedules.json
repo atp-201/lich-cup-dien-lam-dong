@@ -1,29 +1,5 @@
 [
   {
-    "id": "114be48ea702866bc991f513bc7d65974619cfce60c8ca0f2b95734c59c342b4",
-    "district": "Điện lực Huyện Đức Trọng",
-    "area": "- Mất điện một phần khu vực thôn Trung Hậu thuộc xã Tà Hine.",
-    "start_time": "2026-09-12T01:00:00.000Z",
-    "end_time": "2026-09-12T10:00:00.000Z",
-    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
-  },
-  {
-    "id": "4957f3cca074db27ec449da19925456f5df6ef65faa66da2bea2fdd07dd964c0",
-    "district": "Điện lực Huyện Bảo Lâm",
-    "area": "471/50/19 Văn phòng Công ty Nhôm Lâm Đồng – TKV",
-    "start_time": "2026-09-12T01:00:00.000Z",
-    "end_time": "2026-09-12T05:00:00.000Z",
-    "reason": "Bảo trì, sửa chữa lưới điện"
-  },
-  {
-    "id": "3da9aa2855bab5d7f681d0dfcf4be070ec731505bee037c6ce775d5f7823f409",
-    "district": "Điện lực Huyện Bảo Lâm",
-    "area": "471/59/28 Khu tập thể Bauxite Nhôm",
-    "start_time": "2026-09-12T01:00:00.000Z",
-    "end_time": "2026-09-12T05:00:00.000Z",
-    "reason": "Bảo trì, sửa chữa lưới điện"
-  },
-  {
     "id": "efde3cd183c7357ef5d34872a3ca6fb7ca9aa81002f578b7f31202689323a20c",
     "district": "Điện lực Thành phố Bảo Lộc",
     "area": "- Từ trụ 473/205/17/1 về hướng khu vực đường Mạc Đĩnh Chi…",
@@ -62,14 +38,6 @@
     "start_time": "2026-09-13T06:00:00.000Z",
     "end_time": "2026-09-13T09:00:00.000Z",
     "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
-  },
-  {
-    "id": "e15e9ba25f27bfe4b93f6279baa8d56a7d02b1f8004b8bbf67c7d2f4536e64e7",
-    "district": "Điện lực Huyện Đơn Dương",
-    "area": "Các thôn Lạc Viên, Lạc Bình, Lạc Xuân, Lạc Quảng, một phần thôn Châu Sơn thuộc xã D’ran.",
-    "start_time": "2026-09-13T01:00:00.000Z",
-    "end_time": "2026-09-13T10:00:00.000Z",
-    "reason": "Bảo trì, sửa chữa lưới điện"
   },
   {
     "id": "674fb126241f5741ed9894b4877985e473d42f0725c5ade6288adc0df65432b4",
@@ -549,6 +517,86 @@
     "area": "Một phần Thôn 8, xã Bảo Lâm 1.",
     "start_time": "2026-09-15T06:30:00.000Z",
     "end_time": "2026-09-15T08:30:00.000Z",
+    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
+  },
+  {
+    "id": "a3331b971f4ab0f0789bb48e4391583fda022c435fa53889a04ceb9a091b2031",
+    "district": "Điện lực Thành phố Đà Lạt",
+    "area": "Tà Nung",
+    "start_time": "2026-09-16T01:00:00.000Z",
+    "end_time": "2026-09-16T08:00:00.000Z",
+    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
+  },
+  {
+    "id": "6eb676eb1a6c8e068567a4e043aa6da9f19dc7ca19514a28ff4fd128a96f471c",
+    "district": "Điện lực Thành phố Bảo Lộc",
+    "area": "- Mã trạm – tên trạm: 030280120 - 478/46 Thiện Lập, Trần Phú - Mã trạm – tên trạm: 030200002 - 478/6/1/1 Trần Hưng Đạo - Mã trạm – tên trạm: 477/185 Xã Bảo Lâm 3 - Mã trạm – tên trạm: 030200163 - 478/6/67 Lộc Thành (477/202)",
+    "start_time": "2026-09-16T01:00:00.000Z",
+    "end_time": "2026-09-16T05:00:00.000Z",
+    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
+  },
+  {
+    "id": "b9915eba39efc12933404715f0c982228963469a350365f6281a49f8e6d8d34f",
+    "district": "Điện lực Thành phố Bảo Lộc",
+    "area": "-- Nhánh rẽ từ trụ 475/104/96T/6/0 khu vực Lộc Châu - Phường 3 Bảo Lộc",
+    "start_time": "2026-09-16T01:30:00.000Z",
+    "end_time": "2026-09-16T08:00:00.000Z",
+    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
+  },
+  {
+    "id": "4fe69245bb2774021ddf8160b23f58462d2718173ef8fdcfd1946e86a51e1913",
+    "district": "Điện lực Thành phố Bảo Lộc",
+    "area": "- Mã trạm – tên trạm: 030200222 - 478/6/56D/3, 478/6/91/1 Lộc Thành (477/226/1) - Mã trạm – tên trạm: 477/234/4 (số trụ cũ 478/6/59) Lộc Thành - Mã trạm – tên trạm: 030200172 - 478/6/68/2 Lộc Thành (477/263/1P) - Mã trạm – tên trạm: 477/178/29P2 Lộc Thành - Mã trạm – tên trạm: 030200227 - 478/6/85/20/21A Lộc Thành (477/315/26/22)",
+    "start_time": "2026-09-16T05:00:00.000Z",
+    "end_time": "2026-09-16T09:30:00.000Z",
+    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
+  },
+  {
+    "id": "cbc856e2ca056c4a5725961b2fbbc95b7701522c72935b175c24086faaf9cafe",
+    "district": "Điện lực Huyện Di Linh",
+    "area": "Nhánh rẽ 478/71 (Khu vực các thôn Tân Lạc xã Bảo Thuận)",
+    "start_time": "2026-09-16T01:00:00.000Z",
+    "end_time": "2026-09-16T08:00:00.000Z",
+    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
+  },
+  {
+    "id": "5ababba80cce20ae2908d29307ee5b2612279103150ba9aec9db98b89a732602",
+    "district": "Điện lực Huyện Di Linh",
+    "area": "Nhánh rẽ 478/74 (Khu vực các thôn Đồng Lạc 4 xã Bảo Thuận)",
+    "start_time": "2026-09-16T01:00:00.000Z",
+    "end_time": "2026-09-16T08:00:00.000Z",
+    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
+  },
+  {
+    "id": "b258d87d5741138ba91a6b9c04de4294592f5bea983d62c27ff597d72d46c29a",
+    "district": "Điện lực Huyện Đức Trọng",
+    "area": "Mất điện toàn bộ khu vực từ UBND xã Đức Trọng dọc đường Quốc Lộ 20 lên đến chân đèo Prenn(bao gồm thôn 1, thôn 12 thuộc xã Đức Trọng; thôn Phú Thạnh, thôn Phi Nôm (trừ thôn Bắc Hội cũ), thôn Quảng Hiệp, thôn K’Long, thôn Định An thuộc xã Hiệp Thạnh).",
+    "start_time": "2026-09-16T00:45:00.000Z",
+    "end_time": "2026-09-16T09:00:00.000Z",
+    "reason": "Bảo trì, sửa chữa lưới điện"
+  },
+  {
+    "id": "2f6f00270c135e5ad0cc0b35309e33d30aff4153ce0a2b51be3d6e13800c2943",
+    "district": "Điện lực Huyện Đức Trọng",
+    "area": "Mất điện một phần khu vực thôn 1, 3, 4, thôn P’Ré, thôn K’Nai thuộc xã Đức Trọng; thôn Tân Trung thuộc xã Tân Hội.",
+    "start_time": "2026-09-16T01:00:00.000Z",
+    "end_time": "2026-09-16T08:30:00.000Z",
+    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
+  },
+  {
+    "id": "d687e71a3e20921a2157d5dd8109293499b38802999e14540776a9c34b956f2d",
+    "district": "Điện lực Huyện Lâm Hà",
+    "area": "Một phần thôn Hai Bà Trưng (các thôn Thực Nghiệm thôn 1 Mê Linh cũ) thuộc xã Nam Ban Lâm Hà.",
+    "start_time": "2026-09-16T01:30:00.000Z",
+    "end_time": "2026-09-16T08:30:00.000Z",
+    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
+  },
+  {
+    "id": "efc8a7e91f8980eefe2c0518cfa6b67d79dcd05582475921040564087e7b1684",
+    "district": "Điện lực Huyện Đạ Tẻh",
+    "area": "Một phần xã Đạ Tẻh",
+    "start_time": "2026-09-16T01:30:00.000Z",
+    "end_time": "2026-09-16T04:30:00.000Z",
     "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
   }
 ]
