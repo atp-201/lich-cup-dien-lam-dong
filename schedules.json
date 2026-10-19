@@ -1,37 +1,5 @@
 [
   {
-    "id": "e53ee7235e9ae76168a3b832298b90d370a177a829408e1134fb075c58f395e9",
-    "district": "Điện lực Hàm Thuận Bắc Địa điểm: Xã Hàm Thuận",
-    "area": "Một phần thôn Thuận Hòa, xã Hàm Thuận Băc, Lâm Đồng.",
-    "start_time": "2026-10-18T01:00:00.000Z",
-    "end_time": "2026-10-18T08:00:00.000Z",
-    "reason": "Bảo trì, sửa chữa lưới điện"
-  },
-  {
-    "id": "733289f3c387524e837eda5ff7dd5d90477cadbd66361ef1c2a120c223b8d179",
-    "district": "Điện lực Cát Tiên Địa điểm: Xã Cát Tiên, Xã Cát Tiên 2, Xã Cát Tiên 3",
-    "area": "Toàn bộ các thôn 1, 2, 3, 4, 5, thôn Mỹ Lâm, thôn Nam Ninh thuộc xã Cát Tiên và toàn bộ các xã Cát Tiên 2, Cát Tiên 3",
-    "start_time": "2026-10-18T00:00:00.000Z",
-    "end_time": "2026-10-18T10:00:00.000Z",
-    "reason": "Bảo trì, sửa chữa lưới điện"
-  },
-  {
-    "id": "c05e23f8a5f8fc5f266a2ce5e3cc6774c989ec1f42b02d37da54cb927e973e61",
-    "district": "Điện lực Bảo Lâm Địa điểm: Xã Bảo Lâm 1",
-    "area": "Thôn 2, 3, 4, 5, 6, 13, 15, 16, xã Bảo Lâm 1",
-    "start_time": "2026-10-18T00:00:00.000Z",
-    "end_time": "2026-10-18T10:00:00.000Z",
-    "reason": "Bảo trì, sửa chữa lưới điện"
-  },
-  {
-    "id": "e4e062fc8391292c2faa3b0243c2e6fa7250e8da16789729336a3dc6c8d2d839",
-    "district": "Điện lực Cư Jút Địa điểm: Đang cập nhật",
-    "area": "Xã Đăk Wil: Một phần Thôn 5,9,10, Buôn Knã, Buôn Trum, Trung Tâm, Đoàn Kết",
-    "start_time": "2026-10-18T01:00:00.000Z",
-    "end_time": "2026-10-18T09:00:00.000Z",
-    "reason": "Bảo trì, sửa chữa lưới điện"
-  },
-  {
     "id": "c253328bd766fd9153b3073b4be67ec49dd17eb826868627da168b379bc43258",
     "district": "Điện lực Phan Thiết Địa điểm: Phường Phan Thiết",
     "area": "Trục đường Trần Hưng Đạo khu vực Siêu thị CoopMart Phan Thiết thuộc một phần phường Phan Thiết",
