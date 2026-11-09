@@ -1,45 +1,5 @@
 [
   {
-    "id": "c9b1b689637a1145f60a2a82721396e30af1abb8d150c40551d8e835fbf6a4d7",
-    "district": "Điện lực Di Linh Địa điểm: Xã Gia Hiệp",
-    "area": "Một phần thôn Hiệp Thành - Xã Gia Hiệp",
-    "start_time": "2026-11-08T00:30:00.000Z",
-    "end_time": "2026-11-08T05:00:00.000Z",
-    "reason": "Đấu nối lưới điện Trung, hạ áp"
-  },
-  {
-    "id": "0e0f3545a93faa1d74c21b11a8e82dd7e3f25a7d833f74a02abe84f3e2b93c5e",
-    "district": "Điện lực Gia Nghĩa Địa điểm: Đang cập nhật",
-    "area": "Khách hàng Công ty Quản Lý Tài Sản Viettel - Chi nhánh Tập Đoàn Công Nghiệp - Viễn Thông Quân Đội",
-    "start_time": "2026-11-08T00:00:00.000Z",
-    "end_time": "2026-11-08T05:00:00.000Z",
-    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
-  },
-  {
-    "id": "3035fed743542d00a2eb0d9661b2877a47a2290584eb3455578a587a3c614755",
-    "district": "Điện lực Đắk Song Địa điểm: Xã Đức An",
-    "area": "Xã Đức An: Thôn 3, thôn 6, thôn 12, Công ty TNHH Thái Thịnh, Công Ty Cổ Phần Phát Triển Trạm Sạc Toàn Cầu V-Green",
-    "start_time": "2026-11-08T01:00:00.000Z",
-    "end_time": "2026-11-08T03:00:00.000Z",
-    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
-  },
-  {
-    "id": "23a7617777439237a54e075405f9b3c1ec75b431d314e1c07074eccc9c4e469c",
-    "district": "Điện lực Đắk Song Địa điểm: Xã Đức An",
-    "area": "Xã Đức An: một phần Thôn 7, một phần thôn 8, một phần thôn 12, một phần thôn 8, Viettel Lâm Đồng - Chi nhánh Tập đoàn Công Nghiệp - Viễn Thông Quân Đội, Nguyễn Văn Sơn, Nguyễn Văn Tuấn.",
-    "start_time": "2026-11-08T03:00:00.000Z",
-    "end_time": "2026-11-08T05:00:00.000Z",
-    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
-  },
-  {
-    "id": "01171101ff7c33241b95b96d3e82e66b098d6c17fc733dbb798ac34bcbfa956e",
-    "district": "Điện lực Đắk Song Địa điểm: Đang cập nhật",
-    "area": "thôn 1, 3, 4, 6, Bon Bu Boong, Trung tâm Y tế khu vực Đắk Song, Công ty TNHH Nông nghiệp công nghệ cao Gia Long",
-    "start_time": "2026-11-08T05:00:00.000Z",
-    "end_time": "2026-11-08T07:00:00.000Z",
-    "reason": "Bảo trì, sửa chữa lưới điện"
-  },
-  {
     "id": "9d06fca749d08f66f97dc89480088287db2bf23ef4a0dab98e0bfc54acbe4fa1",
     "district": "Điện lực Tuy Phong Địa điểm: Xã Liên Hương",
     "area": "Một phần Thôn 1,2,3,4,5,6; thôn Bình Thạnh- xã Liên Hương.",
