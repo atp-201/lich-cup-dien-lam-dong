@@ -1,333 +1,5 @@
 [
   {
-    "id": "9d06fca749d08f66f97dc89480088287db2bf23ef4a0dab98e0bfc54acbe4fa1",
-    "district": "Điện lực Tuy Phong Địa điểm: Xã Liên Hương",
-    "area": "Một phần Thôn 1,2,3,4,5,6; thôn Bình Thạnh- xã Liên Hương.",
-    "start_time": "2026-11-08T23:00:00.000Z",
-    "end_time": "2026-11-08T23:30:00.000Z",
-    "reason": "Bảo trì, sửa chữa lưới điện"
-  },
-  {
-    "id": "4338ff11bf30237cb8b8db2af052a40564bb664b5365d0f0f20f4998ba42b860",
-    "district": "Điện lực Tuy Phong Địa điểm: Xã Liên Hương",
-    "area": "Một phần Thôn 5, xã Liên Hương.",
-    "start_time": "2026-11-09T00:00:00.000Z",
-    "end_time": "2026-11-09T07:30:00.000Z",
-    "reason": "Bảo trì, sửa chữa lưới điện"
-  },
-  {
-    "id": "4338ff11bf30237cb8b8db2af052a40564bb664b5365d0f0f20f4998ba42b860",
-    "district": "Điện lực Tuy Phong Địa điểm: Xã Liên Hương",
-    "area": "Một phần Thôn 5, xã Liên Hương.",
-    "start_time": "2026-11-09T00:00:00.000Z",
-    "end_time": "2026-11-09T07:30:00.000Z",
-    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
-  },
-  {
-    "id": "e187098207b99fe12a1dfd7758a4e687d10134a2c6f5457e4f4f4a5a37f508f2",
-    "district": "Điện lực Tuy Phong Địa điểm: Xã Liên Hương",
-    "area": "Một phần Thôn 1,2,3,4,5,6; thôn Bình Thạnh- xã Liên Hương.",
-    "start_time": "2026-11-09T08:00:00.000Z",
-    "end_time": "2026-11-09T08:30:00.000Z",
-    "reason": "Bảo trì, sửa chữa lưới điện"
-  },
-  {
-    "id": "b0ce704738ae6a29d5116ec72795ec33738b6354ed6556518dce851252011df2",
-    "district": "Điện lực Đức Linh Địa điểm: Xã Trà Tân",
-    "area": "Mất điện một phần khu vực thôn Đông Tân - xã Trà Tân - tỉnh Lâm Đồng",
-    "start_time": "2026-11-09T01:00:00.000Z",
-    "end_time": "2026-11-09T04:30:00.000Z",
-    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
-  },
-  {
-    "id": "43a92f421199266ac9b78c44879e7d89e5194634cc4c53b4edccedb0de808d38",
-    "district": "Điện lực Đức Linh Địa điểm: Xã Trà Tân",
-    "area": "Mất điện một phần khu vực thôn Đông Tân - xã Trà Tân - tỉnh Lâm Đồng",
-    "start_time": "2026-11-09T06:00:00.000Z",
-    "end_time": "2026-11-09T09:30:00.000Z",
-    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
-  },
-  {
-    "id": "65567e1feea6f4c623ba1999ef7b673295eb29f08aebed29250476fd3550eb5d",
-    "district": "Điện lực La Gi Địa điểm: Phường La Gi",
-    "area": "Một phần khu dân cư Nguyễn Thái Học - Phường La Gi - Tỉnh Lâm Đồng",
-    "start_time": "2026-11-09T01:00:00.000Z",
-    "end_time": "2026-11-09T01:30:00.000Z",
-    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
-  },
-  {
-    "id": "235eeae43d253da52565b4e5ffe1b774c1dd976f97a73c77f590269f13c485c8",
-    "district": "Điện lực La Gi Địa điểm: Phường La Gi",
-    "area": "Khu vực ngã ba đường Thống Nhất và đường Lý Thường Kiệt- Phường La Gi - Tỉnh Lâm Đồng",
-    "start_time": "2026-11-09T01:40:00.000Z",
-    "end_time": "2026-11-09T04:30:00.000Z",
-    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
-  },
-  {
-    "id": "12e98b5d760135a161789e36a67760f961244b8c956097e6c6bd18b9f9415979",
-    "district": "Điện lực La Gi Địa điểm: Phường La Gi",
-    "area": "Đường Lê Quang Định - Phường La Gi - Tỉnh Lâm Đồng",
-    "start_time": "2026-11-09T07:30:00.000Z",
-    "end_time": "2026-11-09T09:30:00.000Z",
-    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
-  },
-  {
-    "id": "556625d0edc7bfddd7b8c4f63d381f87c610bfe2530b618df2b37e6219aa816e",
-    "district": "Điện Lực Bắc Bình Địa điểm: Xã Lương Sơn",
-    "area": "Thôn Tân Bình- xã Lương Sơn- tình Lâm Đồng.",
-    "start_time": "2026-11-09T00:30:00.000Z",
-    "end_time": "2026-11-09T09:00:00.000Z",
-    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
-  },
-  {
-    "id": "b131577daf9b5b395d1b56f79aece174d881b99dbc7d641c6e64a29b738ed5cf",
-    "district": "Điện Lực Bắc Bình Địa điểm: Xã Lương Sơn",
-    "area": "Một phần thôn Lương Nam , một phần thôn Lương Bắc , một phần thôn Lương Trung , một phần thôn Lương Đông , xã Lương Sơn , tỉnh Lâm Đồng.",
-    "start_time": "2026-11-09T00:30:00.000Z",
-    "end_time": "2026-11-09T04:30:00.000Z",
-    "reason": "Bảo trì, sửa chữa lưới điện"
-  },
-  {
-    "id": "c40e0a24c529b4180ec7caec0884ef433a48164a468774e621509f76ab6572d4",
-    "district": "Điện Lực Bắc Bình Địa điểm: Đang cập nhật",
-    "area": "Mất điện khách hàng.",
-    "start_time": "2026-11-09T02:00:00.000Z",
-    "end_time": "2026-11-09T02:40:00.000Z",
-    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
-  },
-  {
-    "id": "c40e0a24c529b4180ec7caec0884ef433a48164a468774e621509f76ab6572d4",
-    "district": "Điện Lực Bắc Bình Địa điểm: Đang cập nhật",
-    "area": "Mất điện khách hàng.",
-    "start_time": "2026-11-09T02:00:00.000Z",
-    "end_time": "2026-11-09T03:00:00.000Z",
-    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
-  },
-  {
-    "id": "8d36864694640fb2af0c9ef1e27a18adb12c6ec94cdfce6453eb9a94a1ff82e9",
-    "district": "Điện lực Đà Lạt Địa điểm: Đang cập nhật",
-    "area": "Đa Qúy, Hasfram Đa Qúy.",
-    "start_time": "2026-11-09T01:00:00.000Z",
-    "end_time": "2026-11-09T08:00:00.000Z",
-    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
-  },
-  {
-    "id": "4e97ba8941b4a11ca077a18955823cc294fd81394c8fcb49ef4ccb27cb03d47d",
-    "district": "Điện lực Bảo Lộc Địa điểm: Phường 2 Bảo Lộc",
-    "area": "- Toàn bộ nhánh rẽ 473/228/1 vào hướng đường Nguyễn Chí Thanh, khu vực Đồi Tiền Phong … Phường 2 Bảo Lộc; - Nhánh rẽ 473/205/1 vào hướng đường Nguyễn Thái Học, Mạc Đĩnh Chi…",
-    "start_time": "2026-11-09T01:00:00.000Z",
-    "end_time": "2026-11-09T09:00:00.000Z",
-    "reason": "Bảo trì, sửa chữa lưới điện"
-  },
-  {
-    "id": "9705813fda4b1ccc19d0289bd1c22b2357460f63417ff0870fd627d67098539e",
-    "district": "Điện lực Bảo Lộc Địa điểm: Phường 1 Bảo Lộc",
-    "area": "- Nhánh rẽ 473/369/18/13/0 trạm KH 030220596 - 473/369/18/13/14 KH Phùng Thị Nga - Mã trạm – tên trạm: 030260022 - 476/49/8/4/30 Hồ Nam Phương - Phường 1 Bảo Lộc",
-    "start_time": "2026-11-09T01:00:00.000Z",
-    "end_time": "2026-11-09T09:00:00.000Z",
-    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
-  },
-  {
-    "id": "df4402cb03033c209dbd6e5408d83b17545adde6963538890bc19997d09e915e",
-    "district": "Điện lực Bảo Lộc Địa điểm: Đang cập nhật",
-    "area": "- Mã trạm – tên trạm: 030240340 - 471/72 Lộc Châu - Mã trạm – tên trạm: 030240379 - 471/68 Lộc Châu - Mã trạm – tên trạm: 030240471 - 471/56/32/8 Ánh Mai - Mã trạm – tên trạm: 030240481 - 471/56/33 Ươm Tơ Tháng 8 - Mã trạm – tên trạm: 030240513 - 471/56/47/1 Lộc Châu - Mã trạm – tên trạm: 030240517 - 471/56/53 Chợ Đại Lào - Mã trạm – tên trạm: 030240590 - 471/56/84 Đại Lào - Mã trạm – tên trạm: 030240591 - 471/56/85/5 Ỷ Lan - Mã trạm – tên trạm: 030240166 - 473/205/19/6 MẠC ĐĨNH CHI - Mã trạm – tên trạm: 030220737 - 473/205/19/7/4 MẠC ĐĨNH CHI",
-    "start_time": "2026-11-09T02:00:00.000Z",
-    "end_time": "2026-11-09T04:30:00.000Z",
-    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
-  },
-  {
-    "id": "ae1b7d7af8e4f9c1fd5981f44348faf8277db032fc86fcf4049ec02e09ca1b6d",
-    "district": "Điện lực Bảo Lộc Địa điểm: Phường 2 Bảo Lộc",
-    "area": "- Mã trạm – tên trạm: 030240564 - 471/66/4/1 Đinh Công Tráng - Mã trạm – tên trạm: 030240350 - 471/64/1 Lộc Châu - Mã trạm – tên trạm: 030240483 - 471/56/22 Ánh Mai - Mã trạm – tên trạm: 030240571 - 471/56/36 Đại Lào - Mã trạm – tên trạm: 030240472 - 471/56/36/24 Lê Thị Riêng - Mã trạm – tên trạm: 030240492 - 471/56/36/42/6 Lộc Châu - Mã trạm – tên trạm: 030240530 - 471/56/68 Đại Lào - Mã trạm – tên trạm: 030240562 - 471/56/69/11/34 Đại Lào - Mã trạm – tên trạm: 030240569 - 471/56/75A Đại Lào - Mã trạm – tên trạm: 030240592 - 471/56/85/12 Đại Lào - Mã trạm – tên trạm: 030240681 - 471/56/96/73/6/7 BLaosrê - Mã trạm – tên trạm: 030240697 - 471/56/96/87/15 Đại Lào - Mã trạm – tên trạm: 030220428 - 473/205/19/27 MẠC ĐỈNH CHI - Mã trạm – tên trạm: 030220548 - 473/293/6 – Đambri - Mã trạm – tên trạm: 030220545 - 473/293/14 - Trại Gà, Phường 2 Bảo Lộc",
-    "start_time": "2026-11-09T05:00:00.000Z",
-    "end_time": "2026-11-09T09:00:00.000Z",
-    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
-  },
-  {
-    "id": "be0d9d341c6d43114d3b75f4752a4c16725c33aa3effa5536cac40680e9ba914",
-    "district": "Điện lực Đơn Dương Địa điểm: Xã Ka Đô",
-    "area": "- Một phần các thôn Lạc Sơn, Lạc Lâm Làng thuộc xã Ka Đô.",
-    "start_time": "2026-11-09T01:00:00.000Z",
-    "end_time": "2026-11-09T04:00:00.000Z",
-    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
-  },
-  {
-    "id": "6520e68f39a36a9b3aeee8aa34421e2ecec1a065f1e65d40ff832ef9441ad171",
-    "district": "Điện lực Đơn Dương Địa điểm: Xã Ka Đô",
-    "area": "- Một phần các thôn Lạc Sơn, Lạc Lâm Làng thuộc xã Ka Đô.",
-    "start_time": "2026-11-09T02:00:00.000Z",
-    "end_time": "2026-11-09T06:00:00.000Z",
-    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
-  },
-  {
-    "id": "6520e68f39a36a9b3aeee8aa34421e2ecec1a065f1e65d40ff832ef9441ad171",
-    "district": "Điện lực Đơn Dương Địa điểm: Xã Ka Đô",
-    "area": "- Một phần các thôn Lạc Sơn, Lạc Lâm Làng thuộc xã Ka Đô.",
-    "start_time": "2026-11-09T02:00:00.000Z",
-    "end_time": "2026-11-09T07:00:00.000Z",
-    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
-  },
-  {
-    "id": "c0e32be970f215e08a419135dcc802a536f44347e66f2a796f798b72c0c7eaf4",
-    "district": "Điện lực Đơn Dương Địa điểm: Xã Ka Đô",
-    "area": "- Một phần các thôn Lạc Sơn, Lạc Lâm Làng thuộc xã Ka Đô.",
-    "start_time": "2026-11-09T04:00:00.000Z",
-    "end_time": "2026-11-09T08:30:00.000Z",
-    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
-  },
-  {
-    "id": "9cb09da67a53466bce72b169a8b6c6832c89f526cde2a49165c088b076594308",
-    "district": "Điện lực Đức Trọng Địa điểm: Xã Tân Hội, Xã Đức Trọng",
-    "area": "Mất điện một phần khu vực thôn Sê Đăng thuộc xã Tân Hội; thôn 16 thuộc xã Đức Trọng.",
-    "start_time": "2026-11-09T01:00:00.000Z",
-    "end_time": "2026-11-09T10:00:00.000Z",
-    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
-  },
-  {
-    "id": "b154d68b6a84e58f397905b73709b31bc29e98f66874859387a3bdfaef9c6386",
-    "district": "Điện lực Đức Trọng Địa điểm: Xã Hiệp Thạnh",
-    "area": "Mất điện một phần khu vực thôn An Hiệp thuộc xã Hiệp Thạnh.",
-    "start_time": "2026-11-09T01:00:00.000Z",
-    "end_time": "2026-11-09T10:00:00.000Z",
-    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
-  },
-  {
-    "id": "57d8d95252fcb40281d32646da0ae387bf1244231518529cc8ca96c21cd3fd0c",
-    "district": "Điện lực Cát Tiên Địa điểm: Xã Cát Tiên 2",
-    "area": "Một phần thôn Phổ Vinh xã Cát Tiên 2",
-    "start_time": "2026-11-09T01:00:00.000Z",
-    "end_time": "2026-11-09T07:00:00.000Z",
-    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
-  },
-  {
-    "id": "2d06c0e75e416b0fb91922b2c7b872e2bbbb9d592621a61930d0fc33aab65bdc",
-    "district": "Điện lực Cát Tiên Địa điểm: Xã Cát Tiên 3",
-    "area": "Một phần thôn Tân Xuân, Hòa Thịnh xã Cát Tiên 3",
-    "start_time": "2026-11-09T01:00:00.000Z",
-    "end_time": "2026-11-09T03:00:00.000Z",
-    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
-  },
-  {
-    "id": "9ea67cf2d21b3f5434c5fb7af1df270070c7e7662cc2ab973b96e2601ab9f4df",
-    "district": "Điện lực Cát Tiên Địa điểm: Xã Cát Tiên 3",
-    "area": "Một phần thôn Hòa Thịnh xã Cát Tiên 3",
-    "start_time": "2026-11-09T03:00:00.000Z",
-    "end_time": "2026-11-09T04:30:00.000Z",
-    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
-  },
-  {
-    "id": "a165dab0bdf5b1225b4ee57de77af1b08190822702b67e157b1df4208c8d6de9",
-    "district": "Điện lực Cát Tiên Địa điểm: Xã Cát Tiên",
-    "area": "Một phần thôn Nam Ninh xã Cát Tiên",
-    "start_time": "2026-11-09T06:00:00.000Z",
-    "end_time": "2026-11-09T08:00:00.000Z",
-    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
-  },
-  {
-    "id": "62ca434754e58807834618c1e1bc1b401e8d5f1689695aad7dc0965203058578",
-    "district": "Điện lực Bảo Lâm Địa điểm: Xã Bảo Lâm 1",
-    "area": "Một phần Thôn 14, Xã Bảo Lâm 1",
-    "start_time": "2026-11-09T01:00:00.000Z",
-    "end_time": "2026-11-09T02:00:00.000Z",
-    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
-  },
-  {
-    "id": "12425c36a5aa0a025b16e6194157d48edeaee28ee14252565201947fd2426bed",
-    "district": "Điện lực Bảo Lâm Địa điểm: Xã Bảo Lâm 1",
-    "area": "Một phần Thôn 17, Xã Bảo Lâm 1",
-    "start_time": "2026-11-09T02:00:00.000Z",
-    "end_time": "2026-11-09T03:00:00.000Z",
-    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
-  },
-  {
-    "id": "925b7da39c4e151baba65ae09b32f282a1f2a1d8fea994886e4c605d45a5a044",
-    "district": "Điện lực Bảo Lâm Địa điểm: Đang cập nhật",
-    "area": "471/31A/4/8/10 Trạm bơm nước Công ty cổ phần HC Bảo Lâm",
-    "start_time": "2026-11-09T02:00:00.000Z",
-    "end_time": "2026-11-09T02:30:00.000Z",
-    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
-  },
-  {
-    "id": "b8e4bcf8ff960571c702b55a20d5b1a4e03bc671d9c0b7268564686f40cdea34",
-    "district": "Điện lực Bảo Lâm Địa điểm: Xã Bảo Lâm 1",
-    "area": "Một phần Thôn 13, Xã Bảo Lâm 1",
-    "start_time": "2026-11-09T03:00:00.000Z",
-    "end_time": "2026-11-09T04:00:00.000Z",
-    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
-  },
-  {
-    "id": "894a42843a4f434f7436a3442e79942c065c0dccbb240ca06eb9db8cd4367cf2",
-    "district": "Điện lực Bảo Lâm Địa điểm: Đang cập nhật",
-    "area": "TBA 471/59A/2 Công ty cổ phần phát triển trạm sạc toàn cầu V-Green",
-    "start_time": "2026-11-09T03:00:00.000Z",
-    "end_time": "2026-11-09T03:30:00.000Z",
-    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
-  },
-  {
-    "id": "cd0dc68e6811383f40392b6aad9038e1a577496c20ca3f3aef86702c2d3fbcf9",
-    "district": "Điện lực Bảo Lâm Địa điểm: Xã Bảo Lâm 1",
-    "area": "Một phần Thôn 19, Xã Bảo Lâm 1",
-    "start_time": "2026-11-09T04:00:00.000Z",
-    "end_time": "2026-11-09T05:00:00.000Z",
-    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
-  },
-  {
-    "id": "723cc15bb52998a54b61f1757645beafae8b6947f8d990be6c4c5751f4d3be9f",
-    "district": "Điện lực Bảo Lâm Địa điểm: Xã Bảo Lâm 1",
-    "area": "Văn phòng HĐND & UBND xã Bảo Lâm 1",
-    "start_time": "2026-11-09T04:00:00.000Z",
-    "end_time": "2026-11-09T04:30:00.000Z",
-    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
-  },
-  {
-    "id": "360c810a9fe3afc8aecce8db1e9cb08b50b9a5c87da255fc215162732449c0e6",
-    "district": "Điện lực Bảo Lâm Địa điểm: Đang cập nhật",
-    "area": "Một phần thôn 15 xã Bảo Lâm 1",
-    "start_time": "2026-11-09T05:00:00.000Z",
-    "end_time": "2026-11-09T05:30:00.000Z",
-    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
-  },
-  {
-    "id": "4aad76fe8ff1306a8f8657849c5a1c244c7d0167885fe0e70560cde7b33806f0",
-    "district": "Điện lực Bảo Lâm Địa điểm: Xã Bảo Lâm 1",
-    "area": "Một phần Thôn 18, Xã Bảo Lâm 1",
-    "start_time": "2026-11-09T06:00:00.000Z",
-    "end_time": "2026-11-09T07:00:00.000Z",
-    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
-  },
-  {
-    "id": "b9620f2475d9981d9dd768fd044c871970e32802dc5f2ce4efe0084949be677e",
-    "district": "Điện lực Bảo Lâm Địa điểm: Xã Bảo Lâm 1",
-    "area": "KH: Nguyễn Trí Tân - 471/142B/14E Thôn 3 Lộc Thắng, xã Bảo Lâm 1, tỉnh Lâm Đồng",
-    "start_time": "2026-11-09T06:00:00.000Z",
-    "end_time": "2026-11-09T06:30:00.000Z",
-    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
-  },
-  {
-    "id": "4d49f19a9ac719eb5c9a725a6890f9177ce7512716a591af9201c9f7a179b907",
-    "district": "Điện lực Bảo Lâm Địa điểm: Phường 1 Bảo Lộc",
-    "area": "KH: Đỗ Ngọc Mạnh Cường - Hẻm 345 Lý Thường Kiệt, Tổ 16, Phường 1 Bảo Lộc, Tỉnh Lâm Đồng",
-    "start_time": "2026-11-09T07:00:00.000Z",
-    "end_time": "2026-11-09T07:30:00.000Z",
-    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
-  },
-  {
-    "id": "c5f619d1225c73e578c0691c147f2427a0fa52d81254545ce406812dae40ed81",
-    "district": "Điện lực Bảo Lâm Địa điểm: Đang cập nhật",
-    "area": "KH: 471/154/68/15/18 Công ty TNHH Dịch vụ Du lịch Satis - Thôn 2 xã Bảo Lâm 1",
-    "start_time": "2026-11-09T08:00:00.000Z",
-    "end_time": "2026-11-09T08:30:00.000Z",
-    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
-  },
-  {
-    "id": "74442beb0a30be6b7cc0397c64198dc4b8a37d15b9132379d01a20b22f7819bd",
-    "district": "Điện lực Lang Biang Địa điểm: Đang cập nhật",
-    "area": "Khu vực hồ Đan Kia - Phường Lang Biang",
-    "start_time": "2026-11-09T01:00:00.000Z",
-    "end_time": "2026-11-09T10:00:00.000Z",
-    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
-  },
-  {
     "id": "a51439237b3b04b7413755058fec0f5f440c23cc02a073375152abc65de91feb",
     "district": "Điện lực Phan Thiết Địa điểm: Phường Mũi Né",
     "area": "Trục đường Nguyễn Đình Chiểu khu vực Chợ Hàm Tiến thuộc một phần phường Mũi Né",
@@ -1173,6 +845,798 @@
     "area": "Thôn Đắk kual 5, Xã Đức An, Tỉnh Lâm Đồng",
     "start_time": "2026-11-11T00:30:00.000Z",
     "end_time": "2026-11-11T08:30:00.000Z",
+    "reason": "Bảo trì, sửa chữa lưới điện"
+  },
+  {
+    "id": "16721f283aaa06a333fa7ed49d55282bfdc6dad250f9d1c58f0da942a6dfafd4",
+    "district": "Điện lực Đức Linh Địa điểm: Xã Nam Thành",
+    "area": "Mất điện khách hàng HKD Tống Bình Minh thuộc thôn 9 - xã Nam Thành - tỉnh Lâm Đồng",
+    "start_time": "2026-11-12T01:30:00.000Z",
+    "end_time": "2026-11-12T03:45:00.000Z",
+    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
+  },
+  {
+    "id": "d4c3d3ca8e609740cb1d11b6b9d4b5d382d4e966aae6dc69ad8cd4377bf3da4e",
+    "district": "Điện lực Đức Linh Địa điểm: Xã Nam Thành",
+    "area": "Mất điện khách hàng Giáo xứ Đa Kai thuộc thôn 10 - xã Nam Thành - tỉnh Lâm Đồng",
+    "start_time": "2026-11-12T04:00:00.000Z",
+    "end_time": "2026-11-12T05:00:00.000Z",
+    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
+  },
+  {
+    "id": "1bcb48288c777a20d80f7d7813f3427a4359d38fa36443cb367f740771488c83",
+    "district": "Điện lực Đức Linh Địa điểm: Xã Nam Thành",
+    "area": "Mất điện khách hàng Lê Văn Chiến thuộc thôn 10 - xã Nam Thành - tỉnh Lâm Đồng",
+    "start_time": "2026-11-12T06:30:00.000Z",
+    "end_time": "2026-11-12T08:00:00.000Z",
+    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
+  },
+  {
+    "id": "f9ce00537d70827476b0b28479698fc9d58bc70e875795950522aafedbc20f3d",
+    "district": "Điện lực Đức Linh Địa điểm: Xã Nam Thành",
+    "area": "Mất điện khách hàng HKD Trần Thanh Phong thuộc thôn 10 - xã Nam Thành - tỉnh Lâm Đồng",
+    "start_time": "2026-11-12T08:15:00.000Z",
+    "end_time": "2026-11-12T09:30:00.000Z",
+    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
+  },
+  {
+    "id": "2b04ced8a459f4dd0d60c4a84cfaab43f6e95b480415e17cead3eed3904e08f7",
+    "district": "Điện lực La Gi Địa điểm: Phường La Gi",
+    "area": "Khu vực cầu Tân Lý - Phường La Gi - Tỉnh Lâm Đồng",
+    "start_time": "2026-11-12T01:30:00.000Z",
+    "end_time": "2026-11-12T04:30:00.000Z",
+    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
+  },
+  {
+    "id": "6e61846e82c8e74bbf2ad207f292dbdcec69007256b048eb39d57259037859ed",
+    "district": "Điện lực La Gi Địa điểm: Phường La Gi",
+    "area": "Một phần đường Nguyễn Trường Tộ - Phường La Gi - Tỉnh Lâm Đồng",
+    "start_time": "2026-11-12T07:00:00.000Z",
+    "end_time": "2026-11-12T10:00:00.000Z",
+    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
+  },
+  {
+    "id": "78db150d57f957c10b82e1990cdf439ca536e17932c3eab3ade9a98c4cc97a05",
+    "district": "Điện lực Hàm Thuận Nam Địa điểm: Xã Hàm Thuận Nam, Xã Hàm Kiệm",
+    "area": "Một phần thôn Minh Tiến xã Hàm Thuận Nam, một phần thôn Phú Lộc xã Hàm Kiệm",
+    "start_time": "2026-11-12T00:15:00.000Z",
+    "end_time": "2026-11-12T00:30:00.000Z",
+    "reason": "Bảo trì, sửa chữa lưới điện"
+  },
+  {
+    "id": "a7b48e347c318125ec3638a57149b71315295123028725e27f426c8aef15005b",
+    "district": "Điện lực Hàm Thuận Nam Địa điểm: Xã Hàm Thuận Nam, Xã Hàm Kiệm",
+    "area": "Một phần thôn Minh Tiến xã Hàm Thuận Nam, một phần thôn Phú Thọ xã Hàm Kiệm",
+    "start_time": "2026-11-12T00:30:00.000Z",
+    "end_time": "2026-11-12T09:00:00.000Z",
+    "reason": "Bảo trì, sửa chữa lưới điện"
+  },
+  {
+    "id": "6e02d1d57941e1b3af05eab52622f03b4203c589c09930665032630ea57eaa34",
+    "district": "Điện lực Hàm Thuận Nam Địa điểm: Xã Tân Thành",
+    "area": "một phần thôn Thuận Qúy, xã Tân Thành",
+    "start_time": "2026-11-12T00:45:00.000Z",
+    "end_time": "2026-11-12T01:00:00.000Z",
+    "reason": "Bảo trì, sửa chữa lưới điện"
+  },
+  {
+    "id": "77d27024144350d8c565fbbb0ae0578a6a3ffc050f63fed936f84a01435b5707",
+    "district": "Điện lực Hàm Thuận Nam Địa điểm: Xã Tân Thành",
+    "area": "một phần thôn Thuận Qúy, xã Tân Thành",
+    "start_time": "2026-11-12T02:00:00.000Z",
+    "end_time": "2026-11-12T02:15:00.000Z",
+    "reason": "Bảo trì, sửa chữa lưới điện"
+  },
+  {
+    "id": "eb49a32c2b02cd232eb4c8ecb4793002c9fd3ce4d9dccd9c541d5e39a3769dfe",
+    "district": "Điện lực Hàm Thuận Nam Địa điểm: Xã Hàm Thuận Nam, Xã Hàm Kiệm",
+    "area": "Một phần thôn Minh Tiến xã Hàm Thuận Nam, một phần thôn Phú Lộc xã Hàm Kiệm",
+    "start_time": "2026-11-12T09:00:00.000Z",
+    "end_time": "2026-11-12T09:15:00.000Z",
+    "reason": "Bảo trì, sửa chữa lưới điện"
+  },
+  {
+    "id": "839dd9f0fdb32cb70b53f90cd91209f76279556bdcb5fa8a8ca99e9ee530befe",
+    "district": "Điện Lực Bắc Bình Địa điểm: Đang cập nhật",
+    "area": "Mất điện khách hàng.",
+    "start_time": "2026-11-12T01:30:00.000Z",
+    "end_time": "2026-11-12T02:30:00.000Z",
+    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
+  },
+  {
+    "id": "839dd9f0fdb32cb70b53f90cd91209f76279556bdcb5fa8a8ca99e9ee530befe",
+    "district": "Điện Lực Bắc Bình Địa điểm: Đang cập nhật",
+    "area": "Mất điện khách hàng.",
+    "start_time": "2026-11-12T01:30:00.000Z",
+    "end_time": "2026-11-12T03:00:00.000Z",
+    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
+  },
+  {
+    "id": "2239b4c921467f068bfee5d2fbbc1930b85a77db20f066729fe76a49dab54d2c",
+    "district": "Điện Lực Bắc Bình Địa điểm: Đang cập nhật",
+    "area": "Mất điện khách hàng",
+    "start_time": "2026-11-12T02:00:00.000Z",
+    "end_time": "2026-11-12T04:00:00.000Z",
+    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
+  },
+  {
+    "id": "fd5c6bff2814a3e33e5136f823c23140248c427ee621c6556b6a88c5d5b1db95",
+    "district": "Điện Lực Bắc Bình Địa điểm: Đang cập nhật",
+    "area": "Mất điện khách hàng.",
+    "start_time": "2026-11-12T03:00:00.000Z",
+    "end_time": "2026-11-12T03:50:00.000Z",
+    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
+  },
+  {
+    "id": "c24f6dcd0e531c94362d9204d616229fd4716f296a76f1bd389363d76fff4e94",
+    "district": "Điện Lực Bắc Bình Địa điểm: Đang cập nhật",
+    "area": "Mất điện khách hàng.",
+    "start_time": "2026-11-12T03:30:00.000Z",
+    "end_time": "2026-11-12T04:10:00.000Z",
+    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
+  },
+  {
+    "id": "a364d1b5bd6bc6c5b83b87b17edcadfa78d3aa97f7fe70104696a11d07190df6",
+    "district": "Điện Lực Bắc Bình Địa điểm: Đang cập nhật",
+    "area": "Mất điện khách hàng.",
+    "start_time": "2026-11-12T04:00:00.000Z",
+    "end_time": "2026-11-12T05:30:00.000Z",
+    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
+  },
+  {
+    "id": "f91fb5a287a086d1d0a068f8d88259e883b0492fc0060ef382865fed7dc9ad87",
+    "district": "Điện lực Đà Lạt Địa điểm: Đang cập nhật",
+    "area": "Nam Kỳ Khởi Nghĩa (ngã ba Đường 3/2 - Nam Kỳ Khởi Nghĩa đến ngã ba Nam Kỳ Khởi Nghĩa - Phan Như Thạch), 3 tháng 2 (ngã ba 3 tháng 2 - Nam Kỳ Khởi Nghĩa đến ngã ba Phan Đình Phùng - 3 tháng 2), Phan Như Thạch, Chi Cục Thuế Đà Lạt. Nguyễn Văn Trỗi (Đ/C 1 đến 60), Hòa Bình.",
+    "start_time": "2026-11-12T01:15:00.000Z",
+    "end_time": "2026-11-12T04:00:00.000Z",
+    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
+  },
+  {
+    "id": "fd2e729e2d447b099498a781401969cb77b379f4728c258f8ef619d25ff8b09b",
+    "district": "Điện lực Đà Lạt Địa điểm: Đang cập nhật",
+    "area": "Nguyễn Chí Thanh, Khách Sạn TTC - Ngọc Lan.",
+    "start_time": "2026-11-12T04:00:00.000Z",
+    "end_time": "2026-11-12T06:00:00.000Z",
+    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
+  },
+  {
+    "id": "f962bd2f357ebf8d856781d388a73db1f45f0f6f05acb4691540207a46b83c2f",
+    "district": "Điện lực Đà Lạt Địa điểm: Đang cập nhật",
+    "area": "KQH 226 Phan Đình Phùng, Nguyễn Lương Bằng (Đ/C 17 đến 53).",
+    "start_time": "2026-11-12T06:00:00.000Z",
+    "end_time": "2026-11-12T07:00:00.000Z",
+    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
+  },
+  {
+    "id": "35b6d1061ad7ce097e7bb93b1f11d8cadf9f01d3890a99d12c7820a8df0c608d",
+    "district": "Điện lực Cát Tiên Địa điểm: Xã Cát Tiên 2",
+    "area": "Một phần thôn Cát An xã Cát Tiên 2",
+    "start_time": "2026-11-12T01:00:00.000Z",
+    "end_time": "2026-11-12T07:00:00.000Z",
+    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
+  },
+  {
+    "id": "7586477871ca02e66b1ab76b37b1a9f3115a485a50db122e8c1617bd0e4ef33c",
+    "district": "Điện lực Bảo Lâm Địa điểm: Xã Bảo Lâm 1",
+    "area": "Một phần Thôn 6, Xã Bảo Lâm 1",
+    "start_time": "2026-11-12T01:00:00.000Z",
+    "end_time": "2026-11-12T02:00:00.000Z",
+    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
+  },
+  {
+    "id": "5779933707de30b0cbf25d4b768cbdd71f97e66f71bb07a31d874b1452fbb9b3",
+    "district": "Điện lực Bảo Lâm Địa điểm: Xã Bảo Lâm 1",
+    "area": "TBA 471/71/7 CHI NHÁNH CÔNG TY CỔ PHẦN CẤP THOÁT NƯỚC LÂM ĐỒNG - NHÀ MÁY NƯỚC BẢO LÂM, Thôn 6, Xã Bảo Lâm 1",
+    "start_time": "2026-11-12T02:00:00.000Z",
+    "end_time": "2026-11-12T03:00:00.000Z",
+    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
+  },
+  {
+    "id": "ea50b75ce9df27edb27e5d99966e2b3dee6347bb7df469f243daa5275c1afad2",
+    "district": "Điện lực Bảo Lâm Địa điểm: Xã Bảo Lâm 1",
+    "area": "KH: Nguyễn Công Thảo - 473/36/7A/5 Hẻm 178 Cát Quế, Thôn 22 Lộc Thắng, Xã Bảo Lâm 1, Tỉnh Lâm Đồng",
+    "start_time": "2026-11-12T02:00:00.000Z",
+    "end_time": "2026-11-12T02:30:00.000Z",
+    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
+  },
+  {
+    "id": "5c631f9ed78ca8731f41bfde42df6da82364d3bd70d012e97daf7a722f61b47d",
+    "district": "Điện lực Bảo Lâm Địa điểm: Xã Bảo Lâm 1",
+    "area": "Một phần Thôn 6, Xã Bảo Lâm 1",
+    "start_time": "2026-11-12T03:00:00.000Z",
+    "end_time": "2026-11-12T04:00:00.000Z",
+    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
+  },
+  {
+    "id": "6a2b4514236c570e6c9efdfb9139420232e09271aa57cc30a867d6a28e331cd6",
+    "district": "Điện lực Bảo Lâm Địa điểm: Xã Bảo Lâm 1",
+    "area": "KH: Hoàng Văn Phong - 473/51A/3 Cát Quế, Thôn 22 Lộc Thắng, Xã Bảo Lâm 1, Tỉnh Lâm Đồng",
+    "start_time": "2026-11-12T03:00:00.000Z",
+    "end_time": "2026-11-12T03:30:00.000Z",
+    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
+  },
+  {
+    "id": "6fe90afdc7829d829813943a5f15db625a11fcf6f96a944c9db47d3666898216",
+    "district": "Điện lực Bảo Lâm Địa điểm: Xã Bảo Lâm 1",
+    "area": "Một phần Thôn 5, Xã Bảo Lâm 1",
+    "start_time": "2026-11-12T04:00:00.000Z",
+    "end_time": "2026-11-12T05:00:00.000Z",
+    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
+  },
+  {
+    "id": "4f3a99bd5cbbbdb8d705e63f9375f58aa960c0059619312a207f97da2a4c244d",
+    "district": "Điện lực Bảo Lâm Địa điểm: Xã Bảo Lâm 1",
+    "area": "KH: CTy TNHH Nam Phan - 473/57/2/13 Cát Quế, Thôn 22 Lộc Thắng, Xã Bảo Lâm 1, Tỉnh Lâm Đồng",
+    "start_time": "2026-11-12T04:00:00.000Z",
+    "end_time": "2026-11-12T04:30:00.000Z",
+    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
+  },
+  {
+    "id": "a2b2c2cb3c02b2d683580e1a7e738aaa116baaaf24ebb1ef8f870b5b04f5dd06",
+    "district": "Điện lực Bảo Lâm Địa điểm: Xã Bảo Lâm 4",
+    "area": "KH: TRần Thị Dung - 473/75/12 Thôn 1 Lộc Phú, Xã Bảo Lâm 4, Tỉnh Lâm Đồng",
+    "start_time": "2026-11-12T05:00:00.000Z",
+    "end_time": "2026-11-12T05:30:00.000Z",
+    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
+  },
+  {
+    "id": "d088378bfd70cd83f20a53dbbf35a92fc40d7637150b60091fde4006536893ff",
+    "district": "Điện lực Bảo Lâm Địa điểm: Xã Bảo Lâm 1",
+    "area": "Một phần Thôn 5, Xã Bảo Lâm 1",
+    "start_time": "2026-11-12T06:00:00.000Z",
+    "end_time": "2026-11-12T07:00:00.000Z",
+    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
+  },
+  {
+    "id": "76b00479a169d9240a69a75d65c11a1a06b59c4713903030543a3f8bb3f90c04",
+    "district": "Điện lực Bảo Lâm Địa điểm: Xã Bảo Lâm 1",
+    "area": "KH: Nguyễn Quốc Sử - 473/75/37/9 Thôn 22 Bảo Lâm 1, Xã Bảo Lâm 1, Tỉnh Lâm Đồng",
+    "start_time": "2026-11-12T06:00:00.000Z",
+    "end_time": "2026-11-12T06:30:00.000Z",
+    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
+  },
+  {
+    "id": "a2f1924a0671b5d6089ad5177e9fb1a278e436e78eee1c04f94055ea59582277",
+    "district": "Điện lực Đắk Mil Địa điểm: Xã Đức Lập",
+    "area": "Thôn Xuân Phong, xã Đức Lập, tỉnh Lâm Đồng.",
+    "start_time": "2026-11-12T01:00:00.000Z",
+    "end_time": "2026-11-12T06:30:00.000Z",
+    "reason": "Bảo trì, sửa chữa lưới điện"
+  },
+  {
+    "id": "f1ace3e6653a8e03dad1339ffebf4d1f84faa8e7a55546859998394c98f813b8",
+    "district": "Điện lực Đắk Mil Địa điểm: Đang cập nhật",
+    "area": "TBA T3089(ĐD478ĐMI) - Nguyễn Thị Yên",
+    "start_time": "2026-11-12T01:00:00.000Z",
+    "end_time": "2026-11-12T06:30:00.000Z",
+    "reason": "Bảo trì, sửa chữa lưới điện"
+  },
+  {
+    "id": "e6e782472c3a76f3e4131066dd7f0c863fd03f95d3c2b3c55d237cb996297020",
+    "district": "Điện lực Đắk Mil Địa điểm: Đang cập nhật",
+    "area": "TBA T396(ĐD474ĐMI) - Công Ty TNHH 1TV Xây Dựng Nam Thành",
+    "start_time": "2026-11-12T01:30:00.000Z",
+    "end_time": "2026-11-12T10:00:00.000Z",
+    "reason": "Bảo trì, sửa chữa lưới điện"
+  },
+  {
+    "id": "01d2d676dc3fc07a48111ae45c7aa251d79b859827f56f8600694916aa6b07f9",
+    "district": "Điện lực Đắk Mil Địa điểm: Đang cập nhật",
+    "area": "TBA T3105(ĐD478ĐMI) - Phạm Xuân Lương",
+    "start_time": "2026-11-12T01:30:00.000Z",
+    "end_time": "2026-11-12T08:30:00.000Z",
+    "reason": "Bảo trì, sửa chữa lưới điện"
+  },
+  {
+    "id": "2932f8e6babaf02930160d3002499b991fb92251142a3a0f198c92416f8fc958",
+    "district": "Điện lực Đắk Mil Địa điểm: Đang cập nhật",
+    "area": "TBA T3092(ĐD478ĐMI) - Lê Xuân Quý",
+    "start_time": "2026-11-12T01:30:00.000Z",
+    "end_time": "2026-11-12T08:30:00.000Z",
+    "reason": "Bảo trì, sửa chữa lưới điện"
+  },
+  {
+    "id": "d5720a6c3b3a5d687191d0b6b2e3e5bd605d1ef0f43d802737aa07b65c3d6980",
+    "district": "Điện lực Đắk Mil Địa điểm: Đang cập nhật",
+    "area": "TBA T118(ĐD478ĐMI) -Công Ty Cổ Phần Cao Su DAKNORUCO",
+    "start_time": "2026-11-12T01:30:00.000Z",
+    "end_time": "2026-11-12T08:30:00.000Z",
+    "reason": "Bảo trì, sửa chữa lưới điện"
+  },
+  {
+    "id": "c3668856da9c503e7c023a70132112040e4ece8e92a15fecb0e97694e9f6531c",
+    "district": "Điện lực Gia Nghĩa Địa điểm: Đang cập nhật",
+    "area": "Công Ty Cổ Phần Thuỷ Điện Đắk RTíh",
+    "start_time": "2026-11-12T00:00:00.000Z",
+    "end_time": "2026-11-12T05:00:00.000Z",
+    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
+  },
+  {
+    "id": "6a3a9786e36d06295345462b3ea9deb0b0cb4dac688d569d4f88f8bda2d0e32c",
+    "district": "Điện lực Gia Nghĩa Địa điểm: Phường Đông Gia Nghĩa",
+    "area": "TDP SRê Ú, phường Đông Gia Nghĩa",
+    "start_time": "2026-11-12T00:30:00.000Z",
+    "end_time": "2026-11-12T10:00:00.000Z",
+    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
+  },
+  {
+    "id": "0d90efea88e62efe574544cf0214efa80751c74e789379ba1f1856efbb10e0d2",
+    "district": "Điện lực Đắk Song Địa điểm: Xã Đức An",
+    "area": "Thôn 11, Xã Đức An, Tỉnh Lâm Đồng,",
+    "start_time": "2026-11-12T00:30:00.000Z",
+    "end_time": "2026-11-12T08:30:00.000Z",
+    "reason": "Bảo trì, sửa chữa lưới điện"
+  },
+  {
+    "id": "0a5838a48346061b8cf1f740d54599f204d91f6705bf2d48b3e23575cb258c79",
+    "district": "Điện lực Đắk Song Địa điểm: Xã Trường Xuân",
+    "area": "Công ty TNHH SX TM Hồng Anh Tây Nguyên. tại T4075 Thôn 3, Xã Trường Xuân, Tỉnh Lâm Đồng",
+    "start_time": "2026-11-12T00:30:00.000Z",
+    "end_time": "2026-11-12T08:30:00.000Z",
+    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
+  },
+  {
+    "id": "e17e695b11688d828efe05383cc425ee6f898d3fe5a7b14bedcf1da096e9cb1f",
+    "district": "Điện lực Đắk Song Địa điểm: Xã Trường Xuân",
+    "area": "Bản Đắk Lép, Xã Trường Xuân, Tỉnh Lâm Đồng,",
+    "start_time": "2026-11-12T00:30:00.000Z",
+    "end_time": "2026-11-12T08:30:00.000Z",
+    "reason": "Bảo trì, sửa chữa lưới điện"
+  },
+  {
+    "id": "d515229e848d131531926d6e79d2de5493dd2311469b69b7a16d00c5353769d1",
+    "district": "Điện lực Đắk Song Địa điểm: Xã Trường Xuân",
+    "area": "Thôn 2, Xã Trường Xuân, Tỉnh Lâm Đồng,",
+    "start_time": "2026-11-12T00:30:00.000Z",
+    "end_time": "2026-11-12T08:30:00.000Z",
+    "reason": "Bảo trì, sửa chữa lưới điện"
+  },
+  {
+    "id": "b29d9c0fafb9e4be5e6c590d124ca5f1f0a5dab039e537bcc4e3976a8be9d8b4",
+    "district": "Điện lực Đắk Song Địa điểm: Xã Trường Xuân",
+    "area": "Thôn 1, Xã Trường Xuân, Tỉnh Lâm Đồng,",
+    "start_time": "2026-11-12T00:30:00.000Z",
+    "end_time": "2026-11-12T08:30:00.000Z",
+    "reason": "Bảo trì, sửa chữa lưới điện"
+  },
+  {
+    "id": "dd2dab82d8d2897420c749fd8e0c247618c8a69e561ed1ee1a062bc86bcfd7bc",
+    "district": "Điện lực Đắk Song Địa điểm: Xã Trường Xuân",
+    "area": "Thôn 3, Xã Trường Xuân, Tỉnh Lâm Đồng,",
+    "start_time": "2026-11-12T00:30:00.000Z",
+    "end_time": "2026-11-12T08:30:00.000Z",
+    "reason": "Bảo trì, sửa chữa lưới điện"
+  },
+  {
+    "id": "d268d86d5eb3aad35ede1d03672136214213ada93dfa08112b32ff850e268dab",
+    "district": "Điện lực Đắk Song Địa điểm: Xã Trường Xuân",
+    "area": "Thôn 10, Xã Trường Xuân, Tỉnh Lâm Đồng,",
+    "start_time": "2026-11-12T00:30:00.000Z",
+    "end_time": "2026-11-12T08:30:00.000Z",
+    "reason": "Bảo trì, sửa chữa lưới điện"
+  },
+  {
+    "id": "d4da325d452097b4b07b726f38f68124040d63cb92afca52f7f6e05214270eb6",
+    "district": "Điện lực Đắk Song Địa điểm: Xã Trường Xuân",
+    "area": "Thôn 4, Xã Trường Xuân, Tỉnh Lâm Đồng",
+    "start_time": "2026-11-12T00:30:00.000Z",
+    "end_time": "2026-11-12T08:30:00.000Z",
+    "reason": "Bảo trì, sửa chữa lưới điện"
+  },
+  {
+    "id": "6f41fd862631b37863a168a3af4e839643f9610109009924a819627a62b6b882",
+    "district": "Điện lực Đắk Song Địa điểm: Xã Đức An",
+    "area": "Thôn Đắk kual 5, Xã Đức An, Tỉnh Lâm Đồng",
+    "start_time": "2026-11-12T00:30:00.000Z",
+    "end_time": "2026-11-12T08:30:00.000Z",
+    "reason": "Bảo trì, sửa chữa lưới điện"
+  },
+  {
+    "id": "7a1dc462b4db284fe17dbb7b7b8011577347acfc064d360a76c94b791a6a167b",
+    "district": "Điện lực Đắk Song Địa điểm: Xã Trường Xuân",
+    "area": "Bản Đắk Lép, Xã Trường Xuân, Tỉnh Lâm Đồng",
+    "start_time": "2026-11-12T00:30:00.000Z",
+    "end_time": "2026-11-12T08:30:00.000Z",
+    "reason": "Bảo trì, sửa chữa lưới điện"
+  },
+  {
+    "id": "d2a5693a0f995d7b70d364d7f34826ddec8b4d4a7ea18c9b8fe208f23bf02e91",
+    "district": "Điện lực Đắk Song Địa điểm: Xã Trường Xuân",
+    "area": "Thôn 3, Xã Trường Xuân, Tỉnh Lâm Đồng",
+    "start_time": "2026-11-12T00:30:00.000Z",
+    "end_time": "2026-11-12T08:30:00.000Z",
+    "reason": "Bảo trì, sửa chữa lưới điện"
+  },
+  {
+    "id": "84ccbf57a809a833980522a6e1088d405eb347fed245be8bd3c7c6be89875562",
+    "district": "Điện lực Đắk Song Địa điểm: Xã Đức An",
+    "area": "Thôn Đắk kual 1, Xã Đức An, Tỉnh Lâm Đồng",
+    "start_time": "2026-11-12T00:30:00.000Z",
+    "end_time": "2026-11-12T08:30:00.000Z",
+    "reason": "Bảo trì, sửa chữa lưới điện"
+  },
+  {
+    "id": "dda03ce48fe192309bf6929b9aad3e43685cab70611656b125fa7b43f5d1155e",
+    "district": "Điện lực Đắk Song Địa điểm: Xã Đức An",
+    "area": "Bon Bu Boong, Xã Đức An, Tỉnh Lâm Đồng,",
+    "start_time": "2026-11-12T00:30:00.000Z",
+    "end_time": "2026-11-12T08:30:00.000Z",
+    "reason": "Bảo trì, sửa chữa lưới điện"
+  },
+  {
+    "id": "8a7a4239c158dcaf6eafd57f64a112181b3749321d44f0afc06b765fb1dc237c",
+    "district": "Điện lực Tuy Phong Địa điểm: Xã Liên Hương",
+    "area": "Thôn Bình Thạnh, Xã Liên Hương",
+    "start_time": "2026-11-13T01:00:00.000Z",
+    "end_time": "2026-11-13T09:00:00.000Z",
+    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
+  },
+  {
+    "id": "02382dbfb933e7edfa067cda7dff3ca8aa15642bca4c46cfc9efeed2fc428c40",
+    "district": "Điện lực Đức Linh Địa điểm: Xã Đức Linh",
+    "area": "Mất điện một phần khu vực thôn 2 - xã Đức Linh - tỉnh Lâm Đồng",
+    "start_time": "2026-11-13T01:00:00.000Z",
+    "end_time": "2026-11-13T04:30:00.000Z",
+    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
+  },
+  {
+    "id": "156d08901893f488ebfaaf63725ec226acc10030b1dc388d5edf84414df5cf3c",
+    "district": "Điện lực Đức Linh Địa điểm: Xã Đức Linh",
+    "area": "Mất điện một phần khu vực thôn 2 - xã Đức Linh - tỉnh Lâm Đồng",
+    "start_time": "2026-11-13T06:30:00.000Z",
+    "end_time": "2026-11-13T08:30:00.000Z",
+    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
+  },
+  {
+    "id": "7328a2d2678c23eeed00f2dd2037626deb95ef12604c8d60389ed9932a57fa04",
+    "district": "Điện lực La Gi Địa điểm: Phường La Gi",
+    "area": "Một phần đường Lê Minh Công - Phường La Gi - Tỉnh Lâm Đồng",
+    "start_time": "2026-11-13T01:00:00.000Z",
+    "end_time": "2026-11-13T04:30:00.000Z",
+    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
+  },
+  {
+    "id": "d7457d85395233b9ff7c25ce7e08d4300d280735d5d7529768e8b0112ffe1292",
+    "district": "Điện lực La Gi Địa điểm: Phường Phước Hội",
+    "area": "Khách hàng Công ty TNHH TM&DV SX Minh Sáng - Phường Phước Hội - Tỉnh Lâm Đồng",
+    "start_time": "2026-11-13T07:00:00.000Z",
+    "end_time": "2026-11-13T08:00:00.000Z",
+    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
+  },
+  {
+    "id": "577a6e2272fda01ae253dd55e7f941a0a2561838fc230fff1c7e647a5524337d",
+    "district": "Điện lực La Gi Địa điểm: Phường Phước Hội",
+    "area": "Khách hàng DNTN Nghi Phong - Phường Phước Hội - Tỉnh Lâm Đồng",
+    "start_time": "2026-11-13T08:30:00.000Z",
+    "end_time": "2026-11-13T09:30:00.000Z",
+    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
+  },
+  {
+    "id": "f2a75480dbb30c29fbd2474c8cb341a1c084685287603798ebc68265d4485f98",
+    "district": "Điện lực Hàm Thuận Nam Địa điểm: Xã Hàm Thạnh",
+    "area": "Một phần xã Hàm Thạnh",
+    "start_time": "2026-11-13T00:15:00.000Z",
+    "end_time": "2026-11-13T00:30:00.000Z",
+    "reason": "Bảo trì, sửa chữa lưới điện"
+  },
+  {
+    "id": "0fde32f99db319acef037838a5be7d054a15a98be59324e1f0af714eefedf4d1",
+    "district": "Điện lực Hàm Thuận Nam Địa điểm: Xã Hàm Kiệm",
+    "area": "Một phần thôn Dân Hiệp xã Hàm Kiệm, một phần thôn Ba Bàu xã Thạnh",
+    "start_time": "2026-11-13T00:30:00.000Z",
+    "end_time": "2026-11-13T09:00:00.000Z",
+    "reason": "Bảo trì, sửa chữa lưới điện"
+  },
+  {
+    "id": "b2a013a78393e202cb45cf3dd04fab70a335b281e384f99c54ecfbccc52948cf",
+    "district": "Điện lực Hàm Thuận Nam Địa điểm: Xã Hàm Thạnh",
+    "area": "Một phần xã Hàm Thạnh",
+    "start_time": "2026-11-13T09:00:00.000Z",
+    "end_time": "2026-11-13T09:15:00.000Z",
+    "reason": "Bảo trì, sửa chữa lưới điện"
+  },
+  {
+    "id": "649b13862952010705badddb34b36975490e60d6b5d4d94e8976c19da35d25f3",
+    "district": "Điện Lực Bắc Bình Địa điểm: Xã Phan Sơn",
+    "area": "Thôn Ka Lúc - Dốc Đá, xã Phan Sơn, tỉnh Lâm Đồng.",
+    "start_time": "2026-11-13T00:30:00.000Z",
+    "end_time": "2026-11-13T09:00:00.000Z",
+    "reason": "Bảo trì, sửa chữa lưới điện"
+  },
+  {
+    "id": "c9811aab534c58b3cb466452b7f365544947df4b5e1ec62c267fc603afa044fd",
+    "district": "Điện Lực Bắc Bình Địa điểm: Xã Hải Ninh",
+    "area": "Thôn Hải Thuỷ, An Lạc, Phan Điền, Hải Xuân- xã Hải Ninh, tỉnh Lâm Đồng.",
+    "start_time": "2026-11-13T00:30:00.000Z",
+    "end_time": "2026-11-13T09:00:00.000Z",
+    "reason": "Bảo trì, sửa chữa lưới điện"
+  },
+  {
+    "id": "d9e746f16344fda8c410ea75d6f1b19dbb2cbc29aa5e3be114f267b326114232",
+    "district": "Điện Lực Bắc Bình Địa điểm: Xã Lương Sơn",
+    "area": "Thôn Lương Bắc, xã Lương Sơn , tỉnh Lâm Đồng.",
+    "start_time": "2026-11-13T00:30:00.000Z",
+    "end_time": "2026-11-13T08:00:00.000Z",
+    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
+  },
+  {
+    "id": "6765d73dced0dfa8f67f0d98d6e0e5ebf20a3430e138efca661eb9c33134f73a",
+    "district": "Điện lực Tánh Linh Địa điểm: Xã Tánh Linh",
+    "area": "Mất điện một phần Thôn Bình Minh, Duy Cần, Biển Lạc - xã Tánh Linh - tỉnh Lâm Đồng",
+    "start_time": "2026-11-13T00:30:00.000Z",
+    "end_time": "2026-11-13T09:00:00.000Z",
+    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
+  },
+  {
+    "id": "db394204774581a4a3a70fdb96d00f4941cf9c1141e7946dbd1fb277db3a9c76",
+    "district": "Điện lực Đà Lạt Địa điểm: Đang cập nhật",
+    "area": "Bà Triệu, Đoàn Thị Điểm (Ngã Ba Đoàn Thị Điểm - Bà Triệu đến Đ/C 40), Ánh Sáng, Phạm Ngũ Lão.",
+    "start_time": "2026-11-13T01:00:00.000Z",
+    "end_time": "2026-11-13T06:00:00.000Z",
+    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
+  },
+  {
+    "id": "328e7dcbdc0ae8395f2682ab1bbc04f86552fc929d3a82251024cb320ba0b6fc",
+    "district": "Điện lực Bảo Lộc Địa điểm: Đang cập nhật",
+    "area": "- Mã trạm – tên trạm: 030280245 - 478/126 Nga Sơn Lộc Nga",
+    "start_time": "2026-11-13T01:30:00.000Z",
+    "end_time": "2026-11-13T07:00:00.000Z",
+    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
+  },
+  {
+    "id": "811bf92c2305a2f4b61966d9a173017aee9caf0d4f7f6420640d6e9cb5e57a88",
+    "district": "Điện lực Đức Trọng Địa điểm: Đang cập nhật",
+    "area": "Mất điện TBA nguyễn Công KLhanh 2",
+    "start_time": "2026-11-13T01:00:00.000Z",
+    "end_time": "2026-11-13T09:00:00.000Z",
+    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
+  },
+  {
+    "id": "458d3f794dae4530542998a94d72cee46e6da4b240afd1516ccf8089779a5f7f",
+    "district": "Điện lực Đức Trọng Địa điểm: Xã Đức Trọng",
+    "area": "Mất điện một phần khu vực thôn 12 thuộc xã Đức Trọng.",
+    "start_time": "2026-11-13T01:00:00.000Z",
+    "end_time": "2026-11-13T09:00:00.000Z",
+    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
+  },
+  {
+    "id": "b2d8ed14401593234f884e037829e313f4dfb90ef80db499175a97b30d0f7d55",
+    "district": "Điện lực Đức Trọng Địa điểm: Xã Đức Trọng",
+    "area": "Mất điện một phần khu vực thôn 16 thuộc xã Đức Trọng.",
+    "start_time": "2026-11-13T01:00:00.000Z",
+    "end_time": "2026-11-13T09:00:00.000Z",
+    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
+  },
+  {
+    "id": "4a7209e7bc2f6c553682ee72ae48b205342465fae2baa72fc529913f4279613e",
+    "district": "Điện lực Đạ Huoai Địa điểm: Xã Đạ Huoai 2",
+    "area": "- Mất điện một phần thôn 1 xã Đạ Huoai 2",
+    "start_time": "2026-11-13T01:00:00.000Z",
+    "end_time": "2026-11-13T02:00:00.000Z",
+    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
+  },
+  {
+    "id": "9fcd9724542f7182681586dc5e49155c8a135e67557f7ae17c128f3a1c8692c8",
+    "district": "Điện lực Đạ Huoai Địa điểm: Xã Đạ Huoai 2",
+    "area": "- Mất điện một phần thôn 1 xã Đạ Huoai 2",
+    "start_time": "2026-11-13T02:00:00.000Z",
+    "end_time": "2026-11-13T03:00:00.000Z",
+    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
+  },
+  {
+    "id": "1017a3227ff7c73581c09e18af8c37c6e7d5fe998ca5529398d98bca10bbd888",
+    "district": "Điện lực Đạ Huoai Địa điểm: Xã Đạ Huoai 2",
+    "area": "- Mất điện một phần thôn 1 xã Đạ Huoai 2",
+    "start_time": "2026-11-13T03:00:00.000Z",
+    "end_time": "2026-11-13T04:00:00.000Z",
+    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
+  },
+  {
+    "id": "ed069ce5783586e3bc659c975bff0c42f632e5506a9edf493db6a37e4f1206bb",
+    "district": "Điện lực Đạ Huoai Địa điểm: Xã Đạ Huoai 2",
+    "area": "- Mất điện một phần thôn 1 xã Đạ Huoai 2",
+    "start_time": "2026-11-13T04:00:00.000Z",
+    "end_time": "2026-11-13T05:00:00.000Z",
+    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
+  },
+  {
+    "id": "0e2b2e8eac58a9db94611e6481bfd7f16df8462236ce39baf453bade37e1582d",
+    "district": "Điện lực Cát Tiên Địa điểm: Xã Cát Tiên 2",
+    "area": "Một phần thôn Cát An xã Cát Tiên 2",
+    "start_time": "2026-11-13T01:00:00.000Z",
+    "end_time": "2026-11-13T07:00:00.000Z",
+    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
+  },
+  {
+    "id": "6da47de532cd891edc1f5033552a3bcfebecb8ba95ff8d8e140e0195664007ac",
+    "district": "Điện lực Cát Tiên Địa điểm: Xã Cát Tiên",
+    "area": "Một phần thôn 5 xã Cát Tiên",
+    "start_time": "2026-11-13T01:00:00.000Z",
+    "end_time": "2026-11-13T04:00:00.000Z",
+    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
+  },
+  {
+    "id": "2b9409e33b7ec6df433ad726abe741c9ea734e27726bfa68e07ceb55eaa44642",
+    "district": "Điện lực Cát Tiên Địa điểm: Xã Cát Tiên",
+    "area": "Một phần thôn 5 xã Cát Tiên",
+    "start_time": "2026-11-13T06:00:00.000Z",
+    "end_time": "2026-11-13T09:00:00.000Z",
+    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
+  },
+  {
+    "id": "e2567b6b4c51ee798a630c8a505ff0bef6eddd1c75bfd15bb6944f38332c660b",
+    "district": "Điện lực Bảo Lâm Địa điểm: Xã Bảo Lâm 4",
+    "area": "Trại heo Lộc Phú (Vương Khả Hồng), Thôn Lộc Phú 1, Xã Bảo Lâm 4",
+    "start_time": "2026-11-13T01:00:00.000Z",
+    "end_time": "2026-11-13T02:00:00.000Z",
+    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
+  },
+  {
+    "id": "38da5ad0bc4c36e870f7d95cb9ca38c58c390089e7ab15cce9f0a5d839de1d24",
+    "district": "Điện lực Bảo Lâm Địa điểm: Xã Bảo Lâm 4",
+    "area": "KH: Trần Văn Long, Thôn Lộc Phú 1, Xã Bảo Lâm 4",
+    "start_time": "2026-11-13T02:00:00.000Z",
+    "end_time": "2026-11-13T03:00:00.000Z",
+    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
+  },
+  {
+    "id": "8c68e0f8553f251e961d427549f235e8dc652f849c9aab20b7ea22fcf2cecf17",
+    "district": "Điện lực Bảo Lâm Địa điểm: Xã Bảo Lâm 4",
+    "area": "KH: Phạm Thị Bích Thảo - 473/75/49/1 Thôn 2 Lộc Phú, Xã Bảo Lâm 4, Tỉnh Lâm Đồng",
+    "start_time": "2026-11-13T02:00:00.000Z",
+    "end_time": "2026-11-13T02:30:00.000Z",
+    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
+  },
+  {
+    "id": "3a8e09855a71ab98885a47858e8f414c10184f1f178f1bd518b4e99e83188f20",
+    "district": "Điện lực Bảo Lâm Địa điểm: Xã Bảo Lâm 4",
+    "area": "Một phần Thôn Lộc Lâm 1, Xã Bảo Lâm 4",
+    "start_time": "2026-11-13T03:00:00.000Z",
+    "end_time": "2026-11-13T04:00:00.000Z",
+    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
+  },
+  {
+    "id": "d0a5696d6397024eb56a3f795eb15cc03f3b60fa11472034207f5d63ebb86eac",
+    "district": "Điện lực Bảo Lâm Địa điểm: Xã Bảo Lâm 4",
+    "area": "KH: Dương Văn Mưu - 473/75/60 Thôn 2 Lộc Phú, Xã Bảo Lâm 4, Tỉnh Lâm Đồng",
+    "start_time": "2026-11-13T03:00:00.000Z",
+    "end_time": "2026-11-13T03:30:00.000Z",
+    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
+  },
+  {
+    "id": "41f1b080dffd0f75be72fd3bbc08087155dfe645fa6ab94057e0cbba70c8ed87",
+    "district": "Điện lực Bảo Lâm Địa điểm: Xã Bảo Lâm 1",
+    "area": "Một phần Thôn 9, Xã Bảo Lâm 1",
+    "start_time": "2026-11-13T04:00:00.000Z",
+    "end_time": "2026-11-13T05:00:00.000Z",
+    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
+  },
+  {
+    "id": "29b38bfe2ee3f9c802bd2d96bbdfaf5421e4ec09b146e43207ef9e9b7d9d86b3",
+    "district": "Điện lực Bảo Lâm Địa điểm: Xã Bảo Lâm 1",
+    "area": "KH: Trần Thái Sơn - 473/75/65/1 Thôn 22 Lộc Thắng, Xã Bảo Lâm 1, Tỉnh Lâm Đồng",
+    "start_time": "2026-11-13T04:00:00.000Z",
+    "end_time": "2026-11-13T04:30:00.000Z",
+    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
+  },
+  {
+    "id": "c150b2bbb5c831284e4646c2c9d096f7163aa80b5c3c6cb6aa650876c462a9bb",
+    "district": "Điện lực Bảo Lâm Địa điểm: Xã Bảo Lâm 1",
+    "area": "KH: Đoàn Văn Đức - 473/75/141 Buôn Nao Đơ, Thôn 16 Lộc Thắng, Xã Bảo Lâm 1, Tỉnh Lâm Đồng",
+    "start_time": "2026-11-13T05:00:00.000Z",
+    "end_time": "2026-11-13T05:30:00.000Z",
+    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
+  },
+  {
+    "id": "648a2abc35db1e5ef8348f02bceca5ab7ffdff3d9a601ac2c6eadc293d5d10f2",
+    "district": "Điện lực Bảo Lâm Địa điểm: Xã Bảo Lâm 1",
+    "area": "Công Ty TNHH TMDV Tiến Tuấn Bảo Lâm, Thôn 9, Xã Bảo Lâm 1",
+    "start_time": "2026-11-13T06:00:00.000Z",
+    "end_time": "2026-11-13T07:00:00.000Z",
+    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
+  },
+  {
+    "id": "d5225e3f69fcdda4c365f61f09026170b162652391e96b32155b4b012a81f401",
+    "district": "Điện lực Bảo Lâm Địa điểm: Xã Bảo Lâm 1",
+    "area": "KH: Trần Ngọc Hoà - 473/75/327 Buôn Nao Đơ, Thôn 16 Lộc Thắng, Xã Bảo Lâm 1, Tỉnh Lâm Đồng",
+    "start_time": "2026-11-13T06:00:00.000Z",
+    "end_time": "2026-11-13T06:30:00.000Z",
+    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
+  },
+  {
+    "id": "2115b72ada95acab4859eb48f4b11a9377eab20df458a1ca2693bdafbd730dbb",
+    "district": "Điện lực Bảo Lâm Địa điểm: Xã Bảo Lâm 1",
+    "area": "KH: Trần Thị Thanh Mai - 473/75/349/1 Buôn Nao Đơ, Thôn 16 Lộc Thắng, Xã Bảo Lâm 1, Tỉnh Lâm Đồng",
+    "start_time": "2026-11-13T07:00:00.000Z",
+    "end_time": "2026-11-13T07:30:00.000Z",
+    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
+  },
+  {
+    "id": "45ecbc05cf1990b016b85dcd0f6a725973681dd8700e9b790e56a30f8377a0ed",
+    "district": "Điện lực Bảo Lâm Địa điểm: Xã Bảo Lâm 4",
+    "area": "KH: Lin Thành Lợi - 473/75/421/23/34 Thôn 6 Nao Quang, Xã Bảo Lâm 4, Tỉnh Lâm Đồng",
+    "start_time": "2026-11-13T08:00:00.000Z",
+    "end_time": "2026-11-13T08:30:00.000Z",
+    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
+  },
+  {
+    "id": "f0176a456d745b2c560c615ffc51bcc0b7925c6a86692addc5aac6ceaaaf5f96",
+    "district": "Điện lực Đắk Song Địa điểm: Xã Đức An",
+    "area": "Bon Bu Rwah, Xã Đức An, Tỉnh Lâm Đồng",
+    "start_time": "2026-11-13T00:30:00.000Z",
+    "end_time": "2026-11-13T08:30:00.000Z",
+    "reason": "Bảo trì, sửa chữa lưới điện"
+  },
+  {
+    "id": "2d2c0a21dc82c3f6ae89f819ceb5747ed90586e4b056295cc84374d155adeb98",
+    "district": "Điện lực Đắk Song Địa điểm: Xã Đức An",
+    "area": "Thôn 7, Xã Đức An, Tỉnh Lâm Đồng",
+    "start_time": "2026-11-13T00:30:00.000Z",
+    "end_time": "2026-11-13T08:30:00.000Z",
+    "reason": "Bảo trì, sửa chữa lưới điện"
+  },
+  {
+    "id": "6b3aa528b22e046ca2e93a80ec016ea37c45e68e475d327030cd5cc5f3380eef",
+    "district": "Điện lực Đắk Song Địa điểm: Xã Trường Xuân",
+    "area": "Thôn 11, Xã Trường Xuân, Tỉnh Lâm Đồng",
+    "start_time": "2026-11-13T00:30:00.000Z",
+    "end_time": "2026-11-13T08:30:00.000Z",
+    "reason": "Bảo trì, sửa chữa lưới điện"
+  },
+  {
+    "id": "9ae1980b24e09af12bfac83084c0090a1bfb32bb1ab66048cbed0433a5d161b9",
+    "district": "Điện lực Đắk Song Địa điểm: Xã Trường Xuân",
+    "area": "Thôn 1, Xã Trường Xuân, Tỉnh Lâm Đồng",
+    "start_time": "2026-11-13T00:30:00.000Z",
+    "end_time": "2026-11-13T08:30:00.000Z",
+    "reason": "Bảo trì, sửa chữa lưới điện"
+  },
+  {
+    "id": "c666298a31f727bf69813065eafac3b468a72983ed9d87c92e532cb113b40254",
+    "district": "Điện lực Đắk Song Địa điểm: Xã Trường Xuân",
+    "area": "Thôn 3, Xã Trường Xuân, Tỉnh Lâm Đồng",
+    "start_time": "2026-11-13T00:30:00.000Z",
+    "end_time": "2026-11-13T08:30:00.000Z",
+    "reason": "Bảo trì, sửa chữa lưới điện"
+  },
+  {
+    "id": "181b42d03f15df21518d54a1c7acc950ab7040f5eed272ec06581639b9adfac7",
+    "district": "Điện lực Đắk Song Địa điểm: Xã Đức An",
+    "area": "Bon Bu Râng, Xã Đức An, Tỉnh Lâm Đồng,",
+    "start_time": "2026-11-13T00:30:00.000Z",
+    "end_time": "2026-11-13T08:30:00.000Z",
+    "reason": "Bảo trì, sửa chữa lưới điện"
+  },
+  {
+    "id": "778c59f70a0f3122080fe0e7e09b74fa7f8a977db8e4cfbfdad38c61ee479a5a",
+    "district": "Điện lực Đắk Song Địa điểm: Xã Trường Xuân",
+    "area": "Thôn 12, Xã Trường Xuân, Tỉnh Lâm Đồng,",
+    "start_time": "2026-11-13T00:30:00.000Z",
+    "end_time": "2026-11-13T08:30:00.000Z",
+    "reason": "Bảo trì, sửa chữa lưới điện"
+  },
+  {
+    "id": "6e2363bf93dab9f1f8ea4fafb2f9c17d2feea16f33e0acd36944210399fc5e3f",
+    "district": "Điện lực Đắk Song Địa điểm: Xã Trường Xuân",
+    "area": "Bản Đăk Lư, Xã Trường Xuân, Tỉnh Lâm Đồng,",
+    "start_time": "2026-11-13T00:30:00.000Z",
+    "end_time": "2026-11-13T08:30:00.000Z",
+    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
+  },
+  {
+    "id": "111e0aa87e6187a9bb72259931cbb9673b482aed4020a72cf619eb50c2a7f865",
+    "district": "Điện lực Đắk Song Địa điểm: Xã Đức An",
+    "area": "Thôn Đắk kual 5, Xã Đức An, Tỉnh Lâm Đồng,",
+    "start_time": "2026-11-13T00:30:00.000Z",
+    "end_time": "2026-11-13T08:30:00.000Z",
+    "reason": "Bảo trì, sửa chữa lưới điện"
+  },
+  {
+    "id": "4eb7934c18e1753a92667b1d61e4ee3b286729a8bb16301ecdb8f3aa0f3aee80",
+    "district": "Điện lực Đắk Song Địa điểm: Xã Đức An",
+    "area": "Thôn Đắk kual 1, Xã Đức An, Tỉnh Lâm Đồng",
+    "start_time": "2026-11-13T00:30:00.000Z",
+    "end_time": "2026-11-13T08:30:00.000Z",
     "reason": "Bảo trì, sửa chữa lưới điện"
   }
 ]
