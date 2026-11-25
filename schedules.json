@@ -1,29 +1,5 @@
 [
   {
-    "id": "9f25a8ef07def25f1e3cb248f31d9fb1daec602bfd0cf0b81e2076f495bcff64",
-    "district": "Điện lực Lang Biang Địa điểm: Đang cập nhật",
-    "area": "TBA Hoàng Trần Cát Vỹ",
-    "start_time": "2026-11-24T01:00:00.000Z",
-    "end_time": "2026-11-24T08:00:00.000Z",
-    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
-  },
-  {
-    "id": "ccfbeb4543c99b4047e2a7ff9d0a4174d78402c1c77c948f1fb374403ad02f54",
-    "district": "Điện lực Lang Biang Địa điểm: Đang cập nhật",
-    "area": "TBA Phạm thị Nga",
-    "start_time": "2026-11-24T01:00:00.000Z",
-    "end_time": "2026-11-24T08:00:00.000Z",
-    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
-  },
-  {
-    "id": "c657d1a7cb5b20a870796d4110aa566d57ab5926a449f5dda8ec6c455d438432",
-    "district": "Điện lực Lang Biang Địa điểm: Đang cập nhật",
-    "area": "TBA Kbil Vina",
-    "start_time": "2026-11-24T01:00:00.000Z",
-    "end_time": "2026-11-24T08:00:00.000Z",
-    "reason": "Thí nghiệm, sửa chữa bảo dưỡng Trung, hạ áp"
-  },
-  {
     "id": "fae3d2f20a0fa8f357f1eca46cc7232d294440ff86c58cb1210d1c04f3f87e3c",
     "district": "Điện lực Phan Thiết Địa điểm: Phường Phan Thiết",
     "area": "Trục đường Nguyễn Thông, Ung Chiếm, Dinh Bà, Hàn Mặc Tử thuộc một phần phường Phan Thiết",
